@@ -2,7 +2,7 @@
 
 This experience created with MindAR and A-Frame is shows an original and more efficient way to show your professional information to those you want to see it.
 
-<img width="1200" alt="AR Shop" src="https://user-images.githubusercontent.com/32990384/186056478-da68c353-037c-4a0f-bb1b-e9f13e10f64c.png">
+<img width="391" alt="B-Card" src="https://user-images.githubusercontent.com/32990384/216498854-f7837fb6-d9a0-4945-a5c2-67bd14a401c5.png">
 
 <h2>The Problem</h2>
 Going to someone's social media on a business card entails multiple clicks.
